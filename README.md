@@ -1,4 +1,6 @@
 # KnowledgeEngine
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FKnowledgeEngine.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FKnowledgeEngine?ref=badge_shield)
+
 
 This is a very simple web app that attempts to classify and occasionally define unknown entities expressed as words or very short phrases. It does so in many languages.
 
@@ -38,3 +40,7 @@ If the engine stops working for a day that probably means the used resources are
 
 If you have a project that could benefit from this abstraction performed,
 contact me (minxomat[at]gmail.com) and we can setup a dedicated API (probably).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FKnowledgeEngine.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FKnowledgeEngine?ref=badge_large)
